@@ -19,5 +19,3 @@
 🔧   Visual Studio Code | Jupyter Notebook | Google Colab | Google Vertex AI
 
 🚀   Pandas | Numpy | Matplotlib | Scipy | Seaborn | Scikit-learn | TensorFlow Keras
-
-docker gcp git heroku mongodb mysql pandas postgresql python scikit_learn seaborn sqlite tensorflow
