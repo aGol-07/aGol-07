@@ -10,7 +10,7 @@
 
 ## Tech Stack
 
-💻   Python | 3DEC | MATLAB | GitHub
+💻   Python | MATLAB | GitHub
 
 🌐   Streamlit | Google Cloud Platform | ML Flow | Heroku | Docker
 
