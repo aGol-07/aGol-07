@@ -8,7 +8,8 @@
 ✍️   Worked in Team of 4 on a project using deep learning methods to complete the image captioning and then combined an open API called GPT-3 to generate beautiful poetry according to information gathered from images. Bonus - we added a text-to-speech API to read the poetry in 3CPO's voice.
 
 
-🛠  Tech Stack
+## Tech Stack
+
 💻   Python | 3DEC | MATLAB | GitHub
 
 🌐   Streamlit | Google Cloud Platform | ML Flow | Heroku | Docker
